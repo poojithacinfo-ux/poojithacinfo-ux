@@ -27,4 +27,4 @@ I’m a B.Tech IT student interested in web development, data science, and AI. I
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/poojitha-challuru-6101a5389/
-- 🌐 Portfolio: YOUR-LINK
+- 🌐 Portfolio: poojithac.netlify.app
